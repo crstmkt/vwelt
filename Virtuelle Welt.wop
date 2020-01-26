@@ -1,0 +1,7 @@
+[Options]
+Name=Virtuelle Welt
+[Dir]
+Files=
+Images=images
+Css=styles
+Includes=includes
